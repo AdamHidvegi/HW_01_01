@@ -1,0 +1,1 @@
+There are 3 different types of files: tracked, untracked and ignored. An ignored file is basically a file which Git has been told to ignore. You have to edit and commit it by hand, there isn't anything like ignore command.
